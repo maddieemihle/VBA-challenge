@@ -24,6 +24,8 @@ Steps:
 
 Methods Used: 
 
-VBA scripting
-Excel 
-Excel Modules 
+- VBA scripting
+
+- Excel 
+
+- Excel Modules 
